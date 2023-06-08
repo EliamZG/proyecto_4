@@ -86,3 +86,8 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# Environment specific 
+.DS_Store
+website/.vscode/settings.json
+.vscode/
